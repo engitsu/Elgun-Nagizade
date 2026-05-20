@@ -1,6 +1,6 @@
 Study and application of Quality Management Systems (QMS) in manufacturing and service industries, including quality standards, continuous improvement, problem-solving tools, customer focus, and Total Quality Management (TQM) principles.
 
-Elshad Samadov
+Elgun Nagizade
 
 Task №1
 
@@ -8,7 +8,7 @@ Summary: A guide on eliminating manual data entry. It details how the KUTVAN BSC
 
 https://www.linkedin.com/in/elshad-samadov-073266216/
 
-Elshad Samadov
+Elgun Nagizade
 
 Task №2
 
@@ -18,7 +18,7 @@ https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-descript
 
 https://www.linkedin.com/in/elshad-samadov-073266216/
 
-Elshad Samadov
+Elgun Nagizade
 
 Task №3
 
@@ -28,7 +28,7 @@ https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-descript
 
 https://www.linkedin.com/in/elshad-samadov-073266216/
 
-Elshad Samadov 
+Elgun Nagizade
 
 Task №4
 
@@ -38,7 +38,7 @@ https://www.slideshare.net/slideshow/farid-hajiyev-ali-gasimov-rovshan-guliyev-e
 
 https://www.linkedin.com/in/elshad-samadov-073266216/
 
-Elshad Samadov
+Elgun Nagizade
 
 Task №5
 

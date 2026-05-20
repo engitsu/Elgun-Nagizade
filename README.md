@@ -46,4 +46,6 @@ Summary: A failure insight report focused on the interface between scheduling an
 
 https://www.slideshare.net/slideshow/data-slides-by-supporting-excel-google-drive-csv-erp-crm-and-1c-form-farid-hajiyev-zaur-akbarov-ali-gasimov-rovshan-guliyev-elshad-samadov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287381940
 
-https://www.linkedin.com/in/elshad-samadov-073266216/
+
+
+Verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ https://www.instagram.com/physics_teacher_azerbaijan

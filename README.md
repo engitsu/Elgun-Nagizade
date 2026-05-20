@@ -6,7 +6,6 @@ Task №1
 
 Summary: A guide on eliminating manual data entry. It details how the KUTVAN BSC platform integrates with Excel, Google Drive, ERP/CRM, and 1C Software to reduce entry time by 80%.   https://www.slideshare.net/slideshow/topic-description-crane-sevices-rovshan-guliyev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286570614
 
-https://www.linkedin.com/in/elshad-samadov-073266216/
 
 Elgun Nagizade
 
@@ -16,7 +15,7 @@ Summary: A technical report diagnosing revenue loss from idle cranes. It uses SI
 
 https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-ali-gasimov-elshad-samadov-ayshen-zulfugarova-farid-hajiyev-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286792591
 
-https://www.linkedin.com/in/elshad-samadov-073266216/
+
 
 Elgun Nagizade
 
@@ -26,7 +25,7 @@ Summary: An analysis of system dynamics in crane rentals. It defines Balancing, 
 
 https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-sipoc-map-quality-control-farid-hajiyev-ali-gasimov-rovshan-guliyev-elshad-samadov-zaur-akbarov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286905177
 
-https://www.linkedin.com/in/elshad-samadov-073266216/
+
 
 Elgun Nagizade
 
@@ -36,7 +35,7 @@ Summary: A high-level map of the end-to-end service journey. It identifies "oper
 
 https://www.slideshare.net/slideshow/farid-hajiyev-ali-gasimov-rovshan-guliyev-elshad-samadov-zaur-akbarov-april-2026-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287148250
 
-https://www.linkedin.com/in/elshad-samadov-073266216/
+
 
 Elgun Nagizade
 
